@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319489146491",
+    "project_id": "set-it-up-2016d",
+    "storage_bucket": "set-it-up-2016d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319489146491:android:010ce8b1da9173d059ecde",
+        "android_client_info": {
+          "package_name": "com.example.SetItUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319489146491-4kdkaorsoaqnms8kkvre8mhd1d5q4g2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ix1mGReIY9cLczRE_G06s3WU6NHXzt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319489146491-4kdkaorsoaqnms8kkvre8mhd1d5q4g2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

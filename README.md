@@ -3,7 +3,7 @@
 <BR><BR><BR> 
 
 
- 
+ It is a Flutter based application prototype which ca be used to schedule online video meetings for tutions, trainings or services that can be availed in an online manner
  
 
 

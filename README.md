@@ -80,8 +80,7 @@
   </tr>
   <tr>
     <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Display_of_Selected_slot_by_user_13.jpg" width="250px"></td>
-    <td><img src="" width="250px"></td>
-    <td><img src="" width="250px"></td>
+
     
   </tr>
 </table>

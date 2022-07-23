@@ -18,14 +18,14 @@
 
 <table>
   <tr>
-    <th>Adress</th>
-    <th>Cart</th>
-    <th>Home</th>
+    <th>Guest User Mode</th>
+    <th>Sign In Options Screen</th>
+    <th>Administrator SideBar</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/address.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/cart.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/home.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Guest_User_Mode_1.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Sign_In_Options_Screen_2.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Administrator_SideBar_3.jpg" width="250px"></td>
   </tr>
  
  <tr>

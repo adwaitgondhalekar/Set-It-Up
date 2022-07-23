@@ -40,14 +40,14 @@
   </tr>
   
   <tr>
-    <th>Payment 2</th>
-    <th>Sign In</th>
-    <th>Sign Up</th>
+    <th>Adding Product Details</th>
+    <th>User Login Screen</th>
+    <th>Service Provider SideBar</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/payment2.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/signin.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/signup.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Adding_Product_Details_7.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/User_Login_Screen_8.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Service_Provider_SideBar_9.jpg" width="250px"></td>
   </tr>
 </table>
 

@@ -73,6 +73,19 @@
     <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Two_Products_in_Cart_15.jpg" width="250px"></td>
     <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/HomeScreen_with_two_newly_added_Services_16.jpg" width="250px"></td>
   </tr>
+ 
+  <tr>
+    <th>HomeScreen with two newly added Services</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Display_of_Selected_slot_by_user_13.jpg" width="250px"></td>
+    <td><img src="" width="250px"></td>
+    <td><img src="" width="250px"></td>
+    
+  </tr>
 </table>
 
   

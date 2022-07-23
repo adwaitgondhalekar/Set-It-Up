@@ -29,14 +29,14 @@
   </tr>
  
  <tr>
-    <th>Navigation Drawer</th>
-    <th>Order Summary</th>
-    <th>Payment</th>
+    <th>Email Verification Waiting Screen</th>
+    <th>Email Verification</th>
+    <th>Add Product Service Screen</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/navigation%20drawer.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/order%20summary.jpg" width="250px"></td>
-    <td><img src="https://github.com/KulkarniAtharva/E-Commerce-Android/blob/master/Screenshots/payment.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Email_Verification_Waiting_Screen_4.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Email_Verification_Screen_5.jpg" width="250px"></td>
+    <td><img src="https://github.com/KulkarniAtharva/Set-It-Up/blob/master/Screenshot/Add_Product_ServiceScreen_6.jpg" width="250px"></td>
   </tr>
   
   <tr>
